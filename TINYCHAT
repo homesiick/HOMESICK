@@ -1,0 +1,1069 @@
+prefix = '.' or '!'                   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  
+                                       █                                                        █ 
+                                         █                    Table Of Contents                   █ 
+                                         █                                                        █ 
+                                          █                    L5 - Normal User                    █ 
+                                          █                    L4.5 - Member                       █  
+                                          █                    L4 - Op                             █                
+                                       █                    L3 - Mod                            █                               
+                                          █                    L2 - Super Mod                      █                               
+                                          █                    L1 - Admin                          █                               
+                                          █                    L0 - Owner                          █                               
+                                         █                                                        █   
+                                         █                                                        █ 
+                                          █                                                        █ 
+                                       █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█  
+
+  
+
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗ 
+
+              │                                               L5 -  Normal User                                           | 
+
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝ 
+
+  
+
+(prefix)yt (link or title) or (prefix)play (link or title) - Play a Youtube song. 
+
+  
+
+(prefix)skip or (prefix)stop - Allows a user to skip their song, but only their songs if not mod. 
+
+  
+
+(prefix)tokes or .toke or .dab (1-30) - Call tokes for you and your buds. 
+
+  
+
+(prefix)join - Join the current tokes session. 
+
+  
+
+(prefix)help - Makes the bot post a link to this page. 
+
+  
+
+(prefix)halp - Makes the bot post a link to PM Bot commands. 
+
+  
+
+(prefix)duel (username) (bet) - Dice duel vs desired user for gold. 
+
+  
+
+(prefix)blackjack (bet) or (prefix)bj (bet) - Starts a Blackjack hand vs. the dealer. 
+
+  
+
+(prefix)hit - Have the dealer give you a card for the ongoing hand. 
+
+  
+
+(prefix)stand - Ends your ongoing hand and dealer draws. 
+
+  
+
+(prefix)double - Double your bet and draw a single card, ending turn. 
+
+  
+
+(prefix)split - Split two initial cards with the same value. 
+
+  
+
+(prefix)splithit - Dealers gives you a card on your secondary hand. 
+
+  
+
+(prefix)splitstand - End betting on your first and second hand. 
+
+  
+
+(prefix)splitdouble - Double the bet, drawing a single card to your second hand before ending. 
+
+  
+
+(prefix)surrender - Surrender hand and be given 1/2 of your initial bet. 
+
+  
+
+(prefix)insurance - Dealer face card == [A]ce, you can make an side bet. (1/2 initial bet they have blackjack.) 
+
+  
+
+(prefix)gamble (bet) - Random slot machine from the following choices.. 
+
+  
+
+(prefix)slots (bet) - Slot Machine. x100 = "🃏". x50 = "🍋". x40 = "🍏". x30 = "🍓". x20 = "🍒". x10 = "🍊". x5 = "🍇" 
+
+  
+
+(prefix)sluts (bet) - Slut slot machine. x100 = "👵". x50 = "👧🏿". x40 = "👧🏾". x30 = "👧🏽". x20 = "👧🏼". x10 = "👧🏻". x5 = "👧" 
+
+  
+
+(prefix)apes (bet) - Ape slot machine. x100 = "🦍". x50 = "🐒". x40 = "🐵". x30 = "🙊". x20 = "🙉". x10 = "🙈". x5 = "🍌" 
+
+  
+
+(prefix)cats (bet) - Cat slot machine. x100 = "🦁". x50 = "🐯". x40 = "🐆". x30 = "🐱". x20 = "🐈". x10 = "🧶". x5 = "🐾" 
+
+  
+
+(prefix)dogs (bet) - Dog slot machine. x100 = "🐺". x50 = "🦊". x40 = "🐶". x30 = "🐕". x20 = "🐩". x10 = "🦴". x5 = "🐾" 
+
+  
+
+(prefix)aquatic (bet) - Aquatic slot machine. x100 = "🐙". x50 = "🐳". x40 = "🦈". x30 = "🐬". x20 = "🐠". x10 = "🐡". x5 = "🐟" 
+
+  
+
+(prefix)birds (bet) - Bird slot machine. x100 = "🐧". x50 = "🦅". x40 = "🦢". x30 = "🦚". x20 = "🦜". x10 = "🦉". x5 = "🦆" 
+
+  
+
+(prefix)trivia (category) - Trivia questions and answers. To view current list, type (prefix)trivia categories 
+
+  
+
+(prefix)vote (ban, kick or close) (user) - Vote to ban, kick or close select user, 5 votes needed to pass on regulars and 7 on mods. 
+
+  
+
+(prefix)vote or yes - To vote in active vote session. 
+
+  
+
+(prefix)cooldown or (prefix)cd - Shows your YouTube cool down time. 
+
+  
+
+(prefix)q or (prefix)queue - Playlist queue. 
+
+  
+
+(prefix)next - Show the next song in the playlist. 
+
+  
+
+(prefix)now or (prefix)np - Show the song name of what's currently playing. 
+
+  
+
+(prefix)who or (prefix)wp - Shows who played this song. 
+
+  
+
+(prefix)numberduel or (prefix)numduel (username) - Number duel vs desired user. (1-1000) 
+
+  
+
+(prefix)pokemonduel or (prefix)pokeduel (username) - Pokemon duel vs desired user. Random Pokemon is chosen for both participating. 
+
+  
+
+(prefix)explore - Search the area for a chance at finding a Pokemon or item. 
+
+  
+
+(prefix)storage - See how many items and collected Pokemon. 
+
+  
+
+(prefix)utc - Coordinated Universal Time display. (Most online games reset at 00:00 UTC) 
+
+  
+
+(prefix)hug (user) - Gives this user a hug, daw. 
+
+  
+
+(prefix)drinks (1-60) - Call drinks for you and the lads. 
+
+  
+
+(prefix)cheers - Cheers! ^_^ 
+
+  
+
+(prefix)u - Shows how many people are in the room. 
+
+  
+
+(prefix)bu - Shows how many people are in the rooms ban list. 
+
+  
+
+(prefix)suicide - Goodbye, friend. 
+
+  
+
+(prefix)ft or .feet - Feet to centimeter. 
+
+  
+
+(prefix)cm or .centimeter - Centimeter to feet. 
+
+  
+
+(prefix)kg or (prefix)kilogram - Kilograms to pounds. 
+
+  
+
+(prefix)lb or (prefix)pound - Pounds to kilograms. 
+
+  
+
+(prefix)c or (prefix)celsius  - Celsius to Fahrenheit. 
+
+  
+
+(prefix)f or (prefix)fahrenheit - Fahrenheit to Celsius. 
+
+  
+
+(prefix)m or (prefix)mile -  Miles to kilometers. 
+
+  
+
+(prefix)km or (prefix)kilometer - Kilometers to miles. 
+
+  
+
+(prefix)spy (room name) - Shows status of a room, mods get to see a little more. 
+
+  
+
+(prefix)acspy (account) - Shows status of a tinychat account. 
+
+  
+
+(prefix)urb (search term) - Finds a definition of a search term on urbandictionary. 
+
+  
+
+(prefix)wea or (prefix)wx or (prefix)weather (city, state(country)) - Shows weather data for a given city. 
+
+  
+
+(prefix)ip (ip address or domain) - Traces given IP or domain. 
+
+  
+
+(prefix)cn - Finds a random Chuck Norris quote/joke. 
+
+  
+
+(prefix)8ball (yes or no question) - Magic eight ball answers to yes/no questions. 
+
+  
+
+(prefix)joke - Some funny and REALLY shitty jokes. 
+
+  
+
+(prefix)advice - Helpful words of advice to get you through life. 
+
+  
+
+(prefix)namemydick - Pet name for your dick. 
+
+  
+
+(prefix)superpower - Generates a random superpower. 
+
+  
+
+(prefix)pimp - Shenanigans during your pimp adventures. 
+
+  
+
+(prefix)pokemon - Generates a random Pokemon. 
+
+  
+
+(prefix)food (item) - Gives you a food recipe for desired target. 
+
+  
+
+(prefix)roll - Roll the die. 
+
+  
+
+(prefix)d20 - Rolls a 20 sided die. 
+
+  
+
+(prefix)flip - Flip a coin. 
+
+  
+
+(prefix)time (Location) - Gives the time for desired location. 
+
+  
+
+(prefix)rate (user) - Rate target user. 
+
+  
+
+(prefix)ddos (user) - DDoS target user. 
+
+  
+
+(prefix)jew (user) - Jew detector on target user. 
+
+  
+
+(prefix)drug (user, self) - Random drug. 
+
+  
+
+(prefix)tip (user) - Tip target user. 
+
+  
+
+(prefix)trump (user) - Trump target user with a loan. 
+
+  
+
+(prefix)savage (user, self) - Check your savage level. 
+
+  
+
+(prefix)catgif - Random catgif is generated for you. 
+
+  
+
+(prefix)best - Check to see if you are the best. 
+
+  
+
+(prefix)timer (1-60) 1-60 minute timer. 
+
+  
+
+(prefix)sex (user) - You have sex with this user. ;] 
+
+  
+
+(prefix)pat (user) - Pats target user on head. 
+
+  
+
+(prefix)hodor - HODOR!!! 
+
+  
+
+(prefix)kill (user) - You kill target user. DIEDIEDIEDIE 
+
+  
+
+(prefix)random - Random number 1-1000. 
+
+  
+
+(prefix)v - Version info. 
+
+  
+
+(prefix)upt - Bot Up time. 
+
+  
+
+(prefix)uptime - Bot Up time. 
+
+  
+
+(prefix)pm - Bot will PM you. 
+
+  
+
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗ 
+
+              │                                               L4.5 -  Member                                              | 
+
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝ 
+
+  
+
+(prefix)stats or (prefix)stats (username) - Shows your stats or stats of desired user. 
+
+  
+
+(prefix)gold or (prefix)gold (username) - Shows your gold or gold of desired user. 
+
+  
+
+(prefix)trade (username) (gold) - Trade desired user target amount of gold. 
+
+  
+
+(prefix)attendance or (prefix)attendance (username) - Show your hours in the room and on camera & how many until auto-level. 
+
+  
+
+  
+
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗ 
+
+              │                                               L4 -  Op                                                    | 
+
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝ 
+
+  
+
+(prefix)afk (username) - Gives target user a time based off user level to type in the chat or they get closed once time is up. 
+
+  
+
+(prefix)skip - Skips current song. 
+
+  
+
+(prefix)pause - Pause current song. 
+
+  
+
+(prefix)play - Play the paused song. 
+
+  
+
+(prefix)stop - Close the current song. 
+
+  
+
+(prefix)rm (number) or (prefix)del (number) - Remove a song from the playlist. 
+
+  
+
+(prefix)info or (prefix)playlist - Shows the next tracks in the playlist. 
+
+  
+
+(prefix)mi or (prefix)ytinfo - Shows details of what's currently playing. - Track title, Elapsed time, Time remaining, Playlist tracks and track index. 
+
+  
+
+(prefix)link - Shows the current video's YouTube URL. 
+
+  
+
+(prefix)replay - Replay the currently playing track. 
+
+  
+
+(prefix)seek - Time search a track. 
+
+  
+
+(prefix)info - Shows the next tracks in the playlist. 
+
+  
+
+(prefix)yts - Search youtube for a list of matching candidates. 
+
+  
+
+(prefix)s - Play a track from a previous youtube search list. 
+
+  
+
+(prefix)songs - Show how many songs the background playlist has cycled through. 
+
+  
+
+(prefix)clr - Clears the chatbox. 
+
+  
+
+(prefix)spam - Clears the chatbox with hearts (Toxic/Cute) ♥♥ 
+
+  
+
+(prefix)clear - Clears the chatbox with stars (Toxic/Cute) ★☆ 
+
+  
+
+(prefix)n_n - AAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 
+
+  
+
+(prefix)discord - Link to our Discord. 
+
+  
+
+(prefix)uinfo (username) - Shows info about a room user. 
+
+  
+
+(prefix)linfo - Shows info about the lists. 
+
+  
+
+(prefix)rinfo - Shows info about a room. 
+
+  
+
+(prefix)stats (user) - Shows the wins and losses of desired user, which is lost upon refresh. 
+
+  
+
+(prefix)porn - Generates a random porno. Nice. 
+
+  
+
+(prefix)ddg (Search term) - Duck Duck go search. 
+
+  
+
+(prefix)ety (word) - Etymology search. 
+
+  
+
+(prefix)define (word) - Definition of target word. 
+
+  
+
+(prefix)translate (words) - Translates to English. 
+
+  
+
+(prefix)stfu - You NEED to SHUT THE FUCK UP. 
+
+  
+
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗ 
+
+              │                                               L3 - Mod                                                    | 
+
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝ 
+
+  
+
+(prefix)kick or (prefix)k (username) - Kicks a user out of the room. (Punishable if NAZI is True) 
+
+  
+
+(prefix)ban or (prefix)b (username) - Bans a user from the room. (Punishable if NAZI is True) 
+
+  
+
+(prefix)close (username) - Closes a users broadcast. (Punishable if NAZI is True) 
+
+  
+
+(prefix)dick (username) - Bans a user waiting in the green room or on cam without demotion when Nazi Mode is on. 
+
+  
+
+(prefix)xo or (prefix)unbanall - Clears the banlist. 
+
+  
+
+(prefix)x (username) or (prefix)x or (prefix)unban (username) or (prefix)unban - Forgive target user or forgive the last person banned. 
+
+  
+
+(prefix)last / (prefix)yt -last - Plays the song of the last link posted in the chat. (Some people don't know how to use .yt) 
+
+  
+
+(prefix)bl (username) - Search the ban list for a banned user. 
+
+  
+
+(prefix)rmb (index number) - Forgive target user from ban list search. 
+
+  
+
+(prefix)bn (username) - Adds a username to the bad nicks file. 
+
+  
+
+(prefix)rmbn (username) - Removes a username from the bad nicks file. 
+
+  
+
+(prefix)bs (word) - Adds a word to the bad words file. 
+
+  
+
+(prefix)rmbs (word) - Removes a word from the bad words file. 
+
+  
+
+(prefix)ba (account name) - Adds an account to the bad accounts file. 
+
+  
+
+(prefix)rmba (account name) - Removes an account from the bad accounts file. 
+
+  
+
+(prefix)fn (username) - Adds an account to the fake nicks file. 
+
+  
+
+(prefix)rmfn (username) - Removes an account from the fake nicks file. 
+
+  
+
+(prefix)op (account) - Adds an account to the bot controller file. (Level 4) 
+
+  
+
+(prefix)rmop (account) - Removes an account from the bot controller file. 
+
+  
+
+(prefix)member (account) - Adds an account to the protected account file. 
+
+  
+
+(prefix)rmmember (account) - Removes an account from protected account file. 
+
+  
+
+(prefix)ignore (account) - Adds an account to the ignore file. 
+
+  
+
+(prefix)unignore (account) - Removes an account from the ignore file. 
+
+  
+
+(prefix)cb or (prefix)camblock (username) - Adds username to the camblock file. 
+
+  
+
+(prefix)rmcb (username) - Removes username from the camblock file. 
+
+  
+
+(prefix)lvl (username) (level) - Makes user target level. 
+
+  
+
+(prefix)cam (username) - Approve broadcast for pending user. 
+
+  
+
+(prefix)noguest or (prefix)l - Toggles if guests are allowed. 
+
+  
+
+(prefix)guestnick - Toggles if guest nicks are allowed. 
+
+  
+
+(prefix)lurkers - Toggles if lurkers are allowed. 
+
+  
+
+(prefix)greet - Welcome message is turned on. 
+
+  
+
+(prefix)leave - User leave notification toggle. 
+
+  
+
+(prefix)pub - Allow or disallow public commands. 
+
+  
+
+(prefix)nick - Change the bots nickname. 
+
+  
+
+(prefix)kab - Kick as ban toggle. 
+
+  
+
+(prefix)kgn - Kick "guest-" nicks toggle. 
+
+  
+
+(prefix)kfn - Kick nicks that are most likely a copy of another users. 
+
+  
+
+(prefix)sab - Bans accounts that are too short, helpful when being spammed at times. 
+
+  
+
+(prefix)cpl - Clear the playlist. 
+
+  
+
+(prefix)search - Youtube playlist search. 
+
+  
+
+(prefix)plp - Play Youtube playlist. 
+
+  
+
+(prefix)ssl - Show search list. 
+
+  
+
+(prefix)list - lists .ba, etc. 
+
+  
+
+(prefix)rs - Room settings. 
+
+  
+
+(prefix)top - Last FM top 30. 
+
+  
+
+(prefix)ran - Last FM random tunes. 
+
+  
+
+(prefix)tag - Search Last FM by tag. 
+
+  
+
+(prefix)track - Play a random song from the bot internal playlist. 
+
+  
+
+(prefix)autotranslate or (prefix)autotran  - Auto-Translate toggle on/off. 
+
+  
+
+(prefix)announce (time) (message) - Announce a message to the room every 1-60 minutes. 
+
+  
+
+(prefix)announce (prefix) - Clear the ongoing announcement; Must wait until your cleared announcement would have finished before next. 
+
+  
+
+(prefix)announcement - View the current announcement message, how often it is displayed & the announcer of said message. 
+
+  
+
+(prefix)clrblackjack or (prefix)clrbj - Clears the ongoing hand to start a new round. To be used when dunce doesn't finish hand. 
+
+  
+
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗ 
+
+              │                                               L2 -  Super Mod                                             | 
+
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝ 
+
+  
+
+(prefix)timeout - Temporary ban, the bot will unban after 5 minutes. (Never punished) 
+
+  
+
+<3 or <3 (username) - Unbans last user or unbans target user, removes their nickname on bn & removes their account to ba. 
+
+  
+
+(prefix)mod (account) - Adds an account to the mod file. (Level 3) 
+
+  
+
+(prefix)rmmod (account) - Removes an account from the mod file. 
+
+  
+
+(prefix)wl (account) - Adds an account to the white list file. 
+
+  
+
+(prefix)rmwl (account) - Removes an account from the white list file. 
+
+  
+
+(prefix)mute (account) - Adds an account to the mute account file. User is kicked if they type anything. 
+
+  
+
+(prefix)unmute (account) - Removes an account from the mute account file. 
+
+  
+
+(prefix)greet+ - Welcome message toggle on for protect -> owner accounts. 
+
+  
+
+(prefix)leave+ - Leave notification toggle on for protect -> owner accounts. 
+
+  
+
+(prefix)recaptcha - Toggles if users can solve a reCAPTCHA code to cam themselves within 1 minute. 
+
+  
+
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗ 
+
+              │                                               L1 -  Admin                                                 | 
+
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝ 
+
+  
+
+</3 (username) - Bans user, adds their nickname to bn & adds their account to ba. 
+
+  
+
+. (username) - Closes a users broadcast that works on all users. 
+
+  
+
+.. - Kick, works on all users. 
+
+  
+
+... - Ban, works on all users. 
+
+  
+
+(prefix)mod+ (account) - Adds this user to the mod list through room settings. 
+
+  
+
+(prefix)mod- (account) - Removes an account from the mod list. 
+
+  
+
+(prefix)bc+ (account) - Adds this user to the broadcaster featured list through room settings. 
+
+  
+
+(prefix)bc- (account) - Removes an account from the broadcaster featured list. 
+
+  
+
+(prefix)dir - Toggles whether the room shows on the directory. 
+
+  
+
+(prefix)p2t - Toggles if push to talk on/off. 
+
+  
+
+(prefix)email - Toggles Tinychat email notification on/off. 
+
+  
+
+(prefix)adult - Toggles to only allow accounts that have an age set of 18 years old or higher to enter. 
+
+  
+
+(prefix)gr - Toggles green room on/off. 
+
+  
+
+(prefix)roompass (password) - Toggles the rooms password. 
+
+  
+
+(prefix)campass (password) - Toggles the greenroom password. 
+
+  
+
+(prefix)gm - Toggles the rooms account setting to not allow guests. 
+
+  
+
+(prefix)twitter - Toggles if Twitter login is required to enter. 
+
+  
+
+(prefix)facebook - Toggles if Facebook login is required to enter. 
+
+  
+
+(prefix)supermod (account) - Adds an account to the super mod file. (Level 2) 
+
+  
+
+(prefix)rmsupermod (account) - Removes an account from the super mod file. 
+
+  
+
+(prefix)cb+ - Toggles closing all users who try to broadcast who aren't moderator or bot operator. 
+
+  
+
+              ╔───────────────────────────────────────────────────────────────────────────────────────────────────────────╗ 
+
+              │                                               L0 -  Owner                                                 | 
+
+              ╚───────────────────────────────────────────────────────────────────────────────────────────────────────────╝  
+
+  
+
+(prefix)kill - Kills the bot. 
+
+  
+
+(prefix)reboot - Reboots the bot. 
+
+  
+
+(prefix)on - Turns bot on. 
+
+  
+
+(prefix)off - Turns bot off. 
+
+  
+
+(prefix)owner (account) - Adds an account to the owner file. (Level 0) 
+
+  
+
+(prefix)rmowner (account) - Removes an account from the owner file. 
+
+  
+
+(prefix)admin (account) - Adds an account to the admin account file. (Level 1) 
+
+  
+
+(prefix)rmadmin (account) - Removes an account from the admin account file. 
+
+  
+
+(prefix)cbold - Console bold text toggle. 
+
+  
+
+(prefix)vip - Toggles if only accounts on the white list are allowed to enter. 
+
+  
+
+(prefix)nazi - Toggles whether or not the bot demotes for mod abuse. 
+
+  
+
+(prefix)bansysmsg or (prefix)bans - Toggles whether or not the bot displays reasoning for ban within system messages. 
+
+  
+
+(prefix)music - Plays background music whilst nothing queued up. 
+
+  
+
+(prefix)chat - Toggles members only chat. Anyone typing in the chat who is not a member+ will be banned. 
+
+  
+
+(prefix)console - Members and above chat messages are only written to console, everything else to logs. 
+
+  
+
+(prefix)nopms - Bans everyone who sends a private message to the bot if they aren't a member or higher. 
+
+  
+
+(prefix)ba+ - Adds an account string to the bad accounts file. 
+
+  
+
+(prefix)rmba+ - Removes an account string from the bad accounts file. 
+
+  
+
+(prefix)close+ - Closes all cams. 
+
+  
+
+(prefix)greetx - Greets n stuff. 8^) 
+
+  
+
+(prefix)clrwl - Clears white list file. 
+
+  
+
+(prefix)clrowner - Clear owner account file. 
+
+  
+
+(prefix)clradmin - Clear god account file. 
+
+  
+
+(prefix)clrsupermod - Clear super mod account file. 
+
+  
+
+(prefix)clrmod - Clear mod account file. 
+
+  
+
+(prefix)clrop - Clear op account file. 
+
+  
+
+(prefix)clrmember - Clear member account file. 
+
+  
+
+(prefix)clrignore - Clear ignore account file. 
+
+  
+
+(prefix)clrcb - Clear camblock nick file.  
+
+  
+
+(prefix)clrmute - Clear muted account file. 
+
+  
+
+(prefix)clrba - Clear bad account file. 
+
+  
+
+(prefix)clrbn - Clear bad nick file. 
+
+  
+
+(prefix)clrbs - Clear bad string file. 
+
+  
+
+(prefix)clrba+ - Clear bad accounts file. 
+
+  
+
+(prefix)clrfn - Clear fake nick file. 
+
+  
+
+(prefix)clrreports - Clear reports file.  
+
+  
+
+(prefix)clraccount - Clear account list file. 
+
+  
+
+(prefix)clrnick - Clear nick list file. 
+
+  
+
+(prefix)g - Clear Globals. 
+
+  
+
+(prefix)add (username) (gold) or (prefix)give (username) (gold) - Give desired username however much gold. 
+
+  
+
+(prefix)subtract (username) (gold) or (prefix)take (username) (gold) - Take desired amount of gold from a user. 
